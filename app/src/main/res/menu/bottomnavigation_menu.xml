@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_menu"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+
+    <item
+        android:id="@+id/sholat_menu"
+        android:title="@string/sholat"
+        android:icon="@drawable/ic_schedule_black_24dp"/>
+
+    <item
+        android:id="@+id/kiblat_menu"
+        android:title="@string/kiblat"
+        android:icon="@drawable/ic_av_timer_black_24dp"/>
+    <item
+        android:id="@+id/kesehatan_menu"
+        android:title="@string/kesehatan"
+        android:icon="@drawable/ic_favorite_black_24dp"/>
+    <item
+        android:id="@+id/account_menu"
+        android:title="@string/account"
+        android:icon="@drawable/ic_account_circle_black_24dp"/>
+</menu>

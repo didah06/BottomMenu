@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bottommenu</string>
+    <string name="home">Home</string>
+    <string name="sholat">Sholat</string>
+    <string name="kiblat">Kiblat</string>
+    <string name="kesehatan">Kesehatan</string>
+    <string name="account">Account</string>
+    <string name="lokasi">atur lokasi</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="aturLokasi">atur lokasi</string>
+    <string name="tab_1">tamattu</string>
+    <string name="tab_2">qiran</string>
+    <string name="tab_3">ifrad</string>
+
+</resources>

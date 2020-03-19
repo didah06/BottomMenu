@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <color name="colorPrimary">#0A2F70</color>
+        <color name="background">#779DDF</color>
+        <color name="colorPrimaryDark">#ffffff</color>
+        <color name="colorAccent">#FF4081</color>
+
+        // TODO: 22/02/18
+        <color name="colorNavigationText">#000000</color>
+        <color name="colordasar">#388139</color>
+</resources>
