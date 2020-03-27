@@ -1,9 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".JamaahHaji">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Jamaah"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="20dp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quran2"
+            android:layout_marginLeft="170dp"
+            android:layout_marginTop="80dp"
+            android:textSize="11sp"
+            android:background="@drawable/custom4"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAppearance="@style/Platform.MaterialComponents"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hadis17"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="30dp"
+                android:padding="5dp"
+                android:background="@drawable/custom6"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="11sp"
+                android:textAppearance="@style/Platform.MaterialComponents"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hadis18"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="30dp"
+                android:padding="5dp"
+                android:background="@drawable/custom5"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="11sp"
+                android:textAppearance="@style/Platform.MaterialComponents"/>
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/desc7"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hadis19"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:padding="5dp"
+            android:background="@drawable/custom5"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="11sp"
+            android:textAppearance="@style/Platform.MaterialComponents"/>
+    </LinearLayout>
+
+</LinearLayout>

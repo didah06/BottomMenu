@@ -15,17 +15,18 @@ import java.util.ArrayList;
 
 public class KesehatanFragment extends Fragment {
 
-    RecyclerView recyclerView;
+    /*RecyclerView recyclerView;
     MyAdapter myAdapter;
-    ArrayList<Model> models;
+    ArrayList<Model> models;*/
 
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_kesehatan, container, false);
+        return view;
 
-        recyclerView = view.findViewById(R.id.recyclerView);
+        /*recyclerView = view.findViewById(R.id.recyclerView);
 
         RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(getActivity());
 
@@ -68,6 +69,7 @@ public class KesehatanFragment extends Fragment {
         return models;
 
 
+    }*/
     }
 
 }

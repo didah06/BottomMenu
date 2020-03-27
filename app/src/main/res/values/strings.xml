@@ -11,5 +11,68 @@
     <string name="tab_1">tamattu</string>
     <string name="tab_2">qiran</string>
     <string name="tab_3">ifrad</string>
+    <string name="title_tamattu">kdnkfn</string>
+    <string name="toolbar">fiqih haji</string>
+    <string name="home_toolbar">asia  tour</string>
+    <string name="sholat_toolbar">jadwal sholat</string>
+    <string name="keutamaan">Keutamaan Haji</string>
+    <string name="bagian1">1. Rukun Islam yang Kelima</string>
+    <string name="quran1">Q.S Ali imran : 97</string>
+    <string name="hadis1">HR. bukhori no. 8</string>
+    <string name="hadis2">HR. muslim no 16</string>
+    <string name="bagian2">2. Mendapatkan Surga</string>
+    <string name="bagian3">3. Menghilangkan Dosa dan Kemiskinan</string>
+    <string name="hadis3">HR. Bukhori 1773</string>
+    <string name="hadis4">HR. Muslim no 1349</string>
+    <string name="hadis5">HR Abu Hurairah r.a</string>
+    <string name="hadis6">HR. Tirmidzi dan An-Nasa\'i</string>
+    <string name="hadis7">As-Shahihah no 1200</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="desc1">Terdapat dalam Al-Qur\'an dan Hadist, sebagai berikut :</string>
+    <string name="desc2">Terdapat dalam Hadist, sebagai berikut :</string>
+    <string name="desc3">Terdapat dalam hadist, sebagai berikut :</string>
+    <string name="desc4">di shahihkan oleh Albani dalam</string>
+    <string name="bagian4">4. Haji merupakan Jihad bagi Wanita</string>
+    <string name="hadis8">HR. Bukhori no 1520</string>
+    <string name="hadis9">HR. ibnu majah no 2901</string>
+    <string name="desc5">di shahihkan Albani dalam</string>
+    <string name="hadis10">Al-Irwaa no 981</string>
+    <string name="bagian5">5. Bagi laki-laki Haji Mabrur merupakan amalan terbaik setelah Jihad</string>
+    <string name="hadis11">HR. Bukhori no 26</string>
+    <string name="hadis12">Muslim no 1350</string>
+    <string name="bagian6">6. Menghapus Seluruh Dosa</string>
+    <string name="hadis13">HR. Bukhori no 1521</string>
+    <string name="hadis14">Muslim no 1350</string>
+    <string name="bagian7">7. Pahala Berlimpah ruah</string>
+    <string name="hadis15">Shahh Ibnu Khuzaimah no 1984</string>
+    <string name="desc6">dinyatakan oleh syekh Albani</string>
+    <string name="hadis16">Hasan Lighairihi</string>
+    <string name="Jamaah">Jamaah Haji Tamu Allah</string>
+    <string name="quran2">Q.S Al-Hajj : 27</string>
+    <string name="hadis17">HR. Ibnu Majah no 2884</string>
+    <string name="hadis18">HR. Bukhari no 1593</string>
+    <string name="desc7">di hasankan oleh albani</string>
+    <string name="hadis19">As-Shahihah no 1820</string>
+    <string name="Predikat">Segera mendapat predikat \"Tamu Allah\"</string>
+    <string name="hadis20">HR. Ibnu Majah no 2884</string>
+    <string name="desc8">di shahihkan albani tetapi di lemahkan beberapa ulama</string>
 
 </resources>

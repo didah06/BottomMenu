@@ -5,15 +5,9 @@
     android:layout_height="match_parent"
     tools:context=".TamattuFrag">
 
-    <TextView
+    <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:gravity="center"
-        android:text="@string/tab_1"
-        android:textColor="@android:color/darker_gray"
-        android:textSize="24sp"
-        android:textStyle="bold" />
+        android:id="@+id/recyclerView"/>
 
 </FrameLayout>

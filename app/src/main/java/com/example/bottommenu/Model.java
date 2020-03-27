@@ -6,7 +6,9 @@ public class Model {
     private String title;
     private int img;
 
-   public String getTitle(){
+
+
+    public String getTitle(){
        return title;
    }
    public void setTitle(String title){
@@ -18,4 +20,5 @@ public class Model {
    public void setImg(int img){
        this.img = img;
    }
+
 }

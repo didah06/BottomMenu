@@ -21,6 +21,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
+import androidx.appcompat.widget.Toolbar;
 import androidx.core.app.ActivityCompat;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
@@ -52,12 +53,14 @@ public class SholatFragment extends Fragment {
     private static final String TAG = "tag";
     String longitude, latitude;
     Fragment fragment;
+    Toolbar toolbar;
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_sholat, container, false);
-
+        toolbar = (Toolbar) view.findViewById(R.id.toolbar);
+        toolbar.setTitle(getResources().getString(R.string.sholat_toolbar));
         mLocationTv = view.findViewById(R.id.locationTv);
         mFajrTv = view.findViewById(R.id.txtSubuh);
         mDhuhrTv = view.findViewById(R.id.txtDzuhur);
