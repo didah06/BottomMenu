@@ -15,10 +15,6 @@
         android:title="@string/kiblat"
         android:icon="@drawable/ic_av_timer_black_24dp"/>
     <item
-        android:id="@+id/kesehatan_menu"
-        android:title="@string/kesehatan"
-        android:icon="@drawable/ic_favorite_black_24dp"/>
-    <item
         android:id="@+id/account_menu"
         android:title="@string/account"
         android:icon="@drawable/ic_account_circle_black_24dp"/>

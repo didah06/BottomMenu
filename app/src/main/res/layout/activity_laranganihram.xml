@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@color/colorPrimaryDark"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="larangan ihram"
+        android:textSize="18dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. Mencukur rambut"
+        android:layout_marginTop="5dp"/>
+    <Button
+        android:id="@+id/albaqarah196"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Q.S Albaqarah:196"
+        android:textColor="@android:color/white"
+        android:background="@drawable/custom1"
+        android:layout_marginLeft="120dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. Memotong kuku"
+        android:layout_marginTop="5dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <!--<Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Al-izma hal. 52"
+        android:layout_marginTop="10dp"/>-->
+        <Button
+            android:id="@+id/alhajj29"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Q.S Al-hajj:29"
+            android:textColor="@android:color/white"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/custom6"
+            android:layout_marginLeft="150dp"/>
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3. Memakai minyak wangi"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/bukhari5803"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom5"
+            android:textColor="@android:color/white"
+            android:text="HR. Bukhari no 5803"/>
+        <Button
+            android:id="@+id/bukhari1593"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HR. Bukhari no 1539"
+            android:background="@drawable/custom1"
+            android:layout_marginLeft="5dp"
+            android:textColor="@android:color/white"/>
+        <Button
+            android:id="@+id/muslim2040"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Muslim no 2040"
+            android:textColor="@android:color/white"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/custom4"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4. Menutup kepala"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/bukhari1842"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HR. Bukhari no 1842"
+            android:background="@drawable/custom2"
+            android:textColor="@android:color/white"/>
+        <Button
+            android:id="@+id/muslim1171"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Muslim no 1177"
+            android:background="@drawable/custom5"
+            android:textColor="@android:color/white"
+            android:layout_marginLeft="20dp"/>
+
+    </LinearLayout>
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/bukhari1851"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom6"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="5dp"
+            android:text="HR. Bukhari no 1851 "/>
+        <Button
+            android:id="@+id/muslim1204"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Muslim no 1206"
+            android:background="@drawable/custom2"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HR. An – Nasa’I no 2673"/>
+
+    </LinearLayout>-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5. Memakai pakaian berjahit"
+        android:layout_marginTop="10dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/bukhari1842_kedua"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HR. Bukhari 1842  "
+            android:background="@drawable/custom6"
+            android:textColor="@android:color/white"/>
+        <Button
+            android:id="@+id/muslim1177"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Muslim 1177"
+            android:layout_marginLeft="10dp"/>
+        <Button
+            android:id="@+id/bukhari1838"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HR. Bukhari 1838"
+            android:background="@drawable/custom1"
+            android:textColor="@android:color/white"
+            android:layout_marginLeft="10dp"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6. berburu hewan buruan darat"
+        android:layout_marginTop="10dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/almaidah96"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="QS. Al – Maidah : 96"
+            android:background="@drawable/custom1"
+            android:textColor="@android:color/white"/>
+        <Button
+            android:id="@+id/almaidah95"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="QS. Al – Maidah : 95"
+            android:layout_marginLeft="10dp"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="7. Melakukan akad, menikahkan, dan melamar’"/>
+    <Button
+        android:id="@+id/muslim1409"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HR. Muslim no 1409"
+        android:background="@drawable/custom2"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Melakukan hubungan suami istri"
+        android:layout_marginTop="10dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+        <Button
+            android:id="@+id/albaqarah197"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="QS. Al – Baqarah : 197"
+            android:background="@drawable/custom6"
+            android:textColor="@android:color/white"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="9. Bercumbu"/>
+
+
+
+
+</LinearLayout>

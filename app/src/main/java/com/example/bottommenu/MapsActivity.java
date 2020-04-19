@@ -2,11 +2,13 @@ package com.example.bottommenu;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.app.AlertDialog;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 import androidx.fragment.app.FragmentActivity;
 
 import android.Manifest;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Address;
@@ -67,9 +69,25 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MapsActivity.this, MainActivity.class);
-                intent.putExtra("city",String.valueOf(city));
-                startActivity(intent);
+                new AlertDialog.Builder(MapsActivity.this)
+                        .setTitle("perhatian")
+                        .setMessage("apakah anda yakin ingin mengubah lokasi saat ini?")
+                        .setPositiveButton("yes", new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                Intent intent = new Intent(MapsActivity.this, MainActivity.class);
+                                intent.putExtra("city", String.valueOf(city));
+                                startActivity(intent);
+                            }
+                        })
+                        .setNegativeButton("No", new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                Intent intent = new Intent(MapsActivity.this, MainActivity.class);
+                                startActivity(intent);
+                            }
+                        })
+                        .show();
             }
         });
 

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@color/colorPrimaryDark"/>
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/minumzamzam"
+        android:layout_marginLeft="170dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/minum_zamzam"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/muslim2473"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HR. Muslim no 2473"
+        android:background="@drawable/custom5"
+        android:textColor="@android:color/white"/>
+        <!--<Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HR. Ahmad no 15243"/>-->
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Keutamaan"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. Sebab Makmur dan hijaunya Makkah"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. Merupakan nikmat dan manfaat yang paling nyata di Albait Al – Haram"/>
+    <Button
+        android:id="@+id/alhajj27_28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QS. Al – Hajj : 27 – 28"
+        android:background="@drawable/custom6"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3. Air terbaik di muka bumi"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4. Telah diberkahi dengan ludah Nabi SAW"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5. Mengundang Gizi"/>
+    <Button
+        android:id="@+id/muslim2473_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HR. Muslim no 2473"
+        android:background="@drawable/custom1"
+        android:textColor="@android:color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6. Obat penyakit"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="7. Sesuai dengan keinginan orang yang meminumnya"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="8. Kesalahan – kesalahan"/>
+
+
+</LinearLayout>

@@ -14,8 +14,8 @@ public class MyHolder extends RecyclerView.ViewHolder {
     public MyHolder(@NonNull View itemView) {
         super(itemView);
 
-        this.imageView = itemView.findViewById(R.id.image1);
-        this.textView = itemView.findViewById(R.id.title1);
+        this.imageView = itemView.findViewById(R.id.image);
+        this.textView = itemView.findViewById(R.id.title);
 
     }
 }

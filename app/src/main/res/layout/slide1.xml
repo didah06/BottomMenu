@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:text="@string/keutamaan"
             android:textStyle="bold"
-            android:textSize="25dp"
+            android:textSize="20dp"
             android:layout_marginLeft="100dp"
             android:layout_marginTop="20dp"/>
 
@@ -36,6 +36,7 @@
             android:layout_marginLeft="25dp"
             android:layout_marginTop="10dp"/>
         <Button
+            android:id="@+id/persiapan_haji1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/quran1"
@@ -50,6 +51,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
             <Button
+                android:id="@+id/persiapan_haji2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/hadis1"
@@ -61,6 +63,7 @@
                 android:textSize="11sp"
                 android:textAppearance="@style/Platform.MaterialComponents"/>
             <Button
+                android:id="@+id/persiapan_haji3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/hadis2"
@@ -97,6 +100,7 @@
             android:orientation="horizontal"
             android:layout_marginTop="15dp">
             <Button
+                android:id="@+id/persiapan_haji4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/hadis3"
@@ -107,6 +111,7 @@
                 android:textSize="11sp"
                 android:textAppearance="@style/Platform.MaterialComponents"/>
             <Button
+                android:id="@+id/persiapan_haji5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/hadis4"
@@ -117,6 +122,7 @@
                 android:textSize="11sp"
                 android:textAppearance="@style/Platform.MaterialComponents"/>
             <Button
+                android:id="@+id/persiapan_haji6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/hadis5"

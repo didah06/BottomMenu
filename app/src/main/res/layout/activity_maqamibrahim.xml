@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@color/colorPrimaryDark"/>
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/maqomibrahim"
+        android:layout_marginLeft="140dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="maqam ibrahim"
+        android:layout_marginLeft="140dp"/>
+    <Button
+        android:id="@+id/alimran9697"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QS. Ali Imran : 96 – 97"
+        android:textColor="@android:color/white"
+        android:background="@drawable/custom2"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="30dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/albaqarah125"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QS. Al – Baqarah : 125"
+        android:layout_marginTop="40dp"
+        android:textColor="@android:color/white"
+        android:background="@drawable/custom6"
+        android:layout_marginLeft="40dp"/>
+
+    <Button
+        android:id="@+id/muslim1218"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HR. Muslim no 1218"
+        android:background="@drawable/custom4"
+        android:layout_marginLeft="40dp"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="40dp"/>
+    </LinearLayout>
+
+</LinearLayout>

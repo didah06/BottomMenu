@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:background="@color/colorPrimary"
         app:titleTextColor="@color/colorPrimaryDark"/>
-    <com.google.android.material.tabs.TabLayout
+    <!--<com.google.android.material.tabs.TabLayout
         android:id="@+id/tablayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
@@ -39,7 +39,23 @@
     <androidx.viewpager.widget.ViewPager
         android:id="@+id/viewPager"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content" />-->
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimaryDark" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
 
 </LinearLayout>

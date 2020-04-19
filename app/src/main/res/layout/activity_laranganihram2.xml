@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="6. berburu hewan buruan darat"
+        android:layout_marginTop="10dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/almaidah96"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QS. Al – Maidah : 96"
+        android:background="@drawable/custom1"
+        android:textColor="@android:color/white"/>
+    <Button
+        android:id="@+id/almaidah95"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QS. Al – Maidah : 95"
+        android:layout_marginLeft="10dp"/>
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="7. Melakukan akad, menikahkan, dan melamar’"/>
+    <Button
+        android:id="@+id/muslim1409"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HR. Muslim no 1409"
+        android:background="@drawable/custom2"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Melakukan hubungan suami istri"
+        android:layout_marginTop="10dp"/>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:layout_marginTop="10dp">
+       <Button
+           android:id="@+id/albaqarah197"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="QS. Al – Baqarah : 197"
+           android:background="@drawable/custom6"
+           android:textColor="@android:color/white"/>
+       <!--<Button
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="HR. Al – Hakim no 2375 dalam as – Sunan al – Kubro 9783"/>
+   </LinearLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Al – Baihaqi dalam as – Sunan al – Kubro 9783"/>-->
+   </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="9. Bercumbu"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:background="@drawable/custom4"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Peringatan:"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="50dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/peringatan"/>
+    </LinearLayout>
+
+
+</LinearLayout>

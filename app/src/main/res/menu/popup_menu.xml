@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:id="@+id/persiapan_haji1"
+            android:title="الحُجَّاجُ وَالْعُمَّارُ وَفْدُ اللهِ، دَعَاهُمْ فَأَجَابُوْهُ، سَأَلُوْهُ فَأَعْطَاهُمْ
+    \n\n
+    “Sesungguhnya para jama’ah haji dan para jama’ah umrah adalah tamu Allāh, Allāh telah panggil mereka dan mereka pun memenuhi panggilan Allāh. Lantas setelah merekapun setelah memenuhi panggilan Allāh (sebagai tamu-tamu Allāh), lantas mereka memohon kepada Allāh, maka Allāh pun mengabulkan permohonan mereka.” (HR Ibnu Majah nomor 2884)."/>
+
+    </menu>

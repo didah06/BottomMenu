@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@color/colorPrimaryDark"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thawaf Wada"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="20dp"/>
+    <Button
+        android:id="@+id/bukhari1755"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HR. Bukhari 1755"
+        android:background="@drawable/custom5"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="120dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/muslim1328"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Muslim no 1328"
+        android:background="@drawable/custom2"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp"/>
+    <Button
+        android:id="@+id/mulsim1327"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HR. Muslim no 1327"
+        android:background="@drawable/custom1"
+        android:textColor="@android:color/white"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="10dp"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@color/colorPrimaryDark"/>
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/keutamaanmekah"
+        android:layout_marginLeft="150dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. keutamaan kota mekkah"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/desc_mekkah"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/bukhari104"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HR. Bukhari no 104"
+        android:background="@drawable/custom5"
+        android:textColor="@android:color/white"/>
+        <Button
+            android:id="@+id/muslim1354"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Muslim 1354"
+            android:layout_marginLeft="80dp"
+            android:background="@drawable/custom2"
+            android:textColor="@android:color/white"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. Kota Makkah adalah induk kota lain di dunia"/>
+    <Button
+        android:id="@+id/asysyura7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QS. Asy Syura : 7"
+        android:layout_marginLeft="120dp"
+        android:background="@drawable/custom6"
+        android:textColor="@android:color/white"/>
+    <!--<Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Tafsir Al – Qurthubi 6/16"/>-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. Kota Makkah adalah induk kota lain di dunia"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3. Kiblat Kaum Muslimin dari segala penjuru"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4. Allah menajmin keamanan bagi setiap yang memasuki Makkah"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5. Tidak boleh buang air besar atau kecil menghadap/membelakangi kiblat"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6. Allah memilih sebagai tempat menunaikan ibadah Haji dan menjadikan perjalanan
+menuju Makkah sebagai pengangkat derajat dan penggugur dosa"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="7. Kota terbaik dan paling dicintai Rasulullah"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="8. Titik tolak perjalanan Isra’ Mi’raj"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="9. Allah jadikan kecondongan hati manusia kepada Rasulullah yang ada di kota Makkah"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10. Melarang orang kafir memasuki Makkah"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="11. Memudahkan buah – buahan di Makkah"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="12. Dilarang membawa senjata di dalam Kota Makkah"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="13. Negeri yang tidak bisa dimasuki Dajjal"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="14. Maksiat di Makkah dosanya sangat besar"/>
+
+</LinearLayout>

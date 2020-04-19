@@ -3,7 +3,218 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:layout_width="match_parent"
+    android:background="@android:color/white"
     android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@color/colorPrimaryDark"/>
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
 
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginTop="60dp"
+                android:src="@drawable/fq"/>
+
+            <TextView
+                android:textSize="14sp"
+                android:id="@+id/author"
+                android:textColor="#2C3B7A"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="85dp"
+                android:layout_marginTop="60dp"
+                android:text="@string/akselerasi"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"/>
+
+            <TextView
+                android:id="@+id/teridri"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/terdiri"
+                android:layout_below="@+id/author"
+                android:paddingTop="15dp"
+                android:textSize="11sp"/>
+            <TextView
+                android:id="@+id/fadiya"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fadiya Tsabita"
+                android:textStyle="bold"
+                android:textColor="#2C3B7A"
+                android:layout_below="@id/teridri"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/pad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/fadiya"
+                android:layout_marginTop="-15dp"
+                android:text="@string/Fadiya"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/sapi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Safira Rakhsanda"
+                android:textStyle="bold"
+                android:textColor="#2C3B7A"
+                android:layout_below="@id/pad"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/safira"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sapi"
+                android:layout_marginTop="-14dp"
+                android:text="@string/Safira"
+                android:textSize="15sp" />
+            <TextView
+                android:id="@+id/anggi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Anggia Putri Noly"
+                android:textStyle="bold"
+                android:textColor="#2C3B7A"
+                android:layout_below="@id/safira"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/nolay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/anggi"
+                android:layout_marginTop="-14dp"
+                android:text="@string/Safira"
+                android:textSize="15sp" />
+            <TextView
+                android:id="@+id/khal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Khalifah Almaira"
+                android:textStyle="bold"
+                android:textColor="#2C3B7A"
+                android:layout_below="@id/nolay"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/khalipah"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/khal"
+                android:layout_marginTop="-14dp"
+                android:text="@string/khalipah"
+                android:textSize="15sp" />
+            <TextView
+                android:id="@+id/nayla"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nayla Dhiaulhaq Hidayat"
+                android:textStyle="bold"
+                android:textColor="#2C3B7A"
+                android:layout_below="@id/khalipah"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/nay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/nayla"
+                android:layout_marginTop="-14dp"
+                android:text="@string/Safira"
+                android:textSize="15sp" />
+
+            <!--<TextView
+                android:id="@+id/sapi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/black"
+                android:text="@string/Safira"
+                android:layout_below="@id/fadiya"
+                android:paddingTop="10dp"
+                android:textSize="13sp"/>
+
+
+            <TextView
+                android:id="@+id/anggi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/black"
+                android:text="@string/Anggi"
+                android:layout_below="@id/sapi"
+                android:paddingTop="10dp"
+                android:textSize="13sp"/>
+
+            <TextView
+                android:id="@+id/nolay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/anggi"
+                android:layout_below="@id/anggi"
+                android:textSize="10sp"/>
+
+            <TextView
+                android:id="@+id/khal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/black"
+                android:text="@string/khalipah"
+                android:layout_below="@id/anggi"
+                android:paddingTop="10dp"
+                android:textSize="13sp"/>
+
+            <TextView
+                android:id="@+id/khalipah"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/khal"
+                android:layout_below="@id/khal"
+                android:textSize="10sp"/>
+
+            <TextView
+                android:id="@+id/nay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/nay"
+                android:textColor="@android:color/black"
+                android:layout_below="@id/khal"
+                android:paddingTop="10dp"
+                android:textSize="13sp"/>
+
+            <TextView
+                android:id="@+id/nayla"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/nayla"
+                android:layout_below="@id/nay"
+                android:textSize="10sp"/>-->
+
+            <TextView
+                android:id="@+id/ustdzh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/black"
+                android:text="@string/ustzh"
+                android:layout_below="@id/nay"
+                android:textSize="13sp"
+                android:paddingTop="11sp"/>
+
+
+        </RelativeLayout>
+    </ScrollView>
 
 </RelativeLayout>

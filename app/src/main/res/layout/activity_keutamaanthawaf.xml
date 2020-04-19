@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@color/colorPrimaryDark"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@mipmap/penjelasanhaji"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="keutamaan thawaf"
+        android:layout_marginLeft="140dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/albaqarah125"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="QS. Al – Baqarah : 125"
+            android:background="@drawable/custom6"
+            android:textColor="@android:color/white"/>
+        <Button
+            android:id="@+id/alhajj26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="QS. Al – Hajj : 26"
+            android:background="@drawable/custom5"
+            android:textColor="@android:color/white"
+            android:layout_marginLeft="30dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/tirmidzi959"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HR. Tirmidzi no 959 dan dishahihkan Al – Albani"
+            android:background="@drawable/custom2"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/tirmidzi960"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HR. Tirmidzi no 960"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/custom3"
+        android:textColor="@android:color/white"/>
+
+</LinearLayout>

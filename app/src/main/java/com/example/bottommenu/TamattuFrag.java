@@ -23,7 +23,7 @@ public class TamattuFrag extends Fragment {
     Context context;
 
     String name[] = {"penjelasan", "umroh", "umroh", "menetap", "pelaksanaan", "thawaf"};
-    int image[] = {R.drawable.penjelasan, R.drawable.umroh, R.drawable.menetap, R.drawable.pelaksanaan, R.drawable.thawaf};
+    int image[] = {R.mipmap.penjelasanhaji, R.mipmap.umrohhaji, R.mipmap.berdebatt, R.mipmap.pelaksanaanhaji, R.mipmap.towaf};
     MyAdapter myAdapter;
 
     @Nullable

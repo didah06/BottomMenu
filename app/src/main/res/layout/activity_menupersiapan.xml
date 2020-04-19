@@ -25,7 +25,7 @@
             android:layout_margin="2dp"
             android:orientation="horizontal">
             <androidx.cardview.widget.CardView
-                android:id="@+id/card1"
+                android:id="@+id/keutamaan"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="3"
@@ -40,10 +40,11 @@
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:padding="2dp"
-                        android:src="@drawable/persiapanhaji"/>
+                        android:src="@mipmap/keutamaanhaji"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:id="@+id/jamaah"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="3"
@@ -58,12 +59,12 @@
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:padding="2dp"
-                        android:src="@drawable/fiqihumrah"/>
+                        android:src="@mipmap/jamaahhaji"/>
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
-                android:id="@+id/card2"
+                android:id="@+id/tamu"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="3"
@@ -79,7 +80,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:padding="2dp"
-                        android:src="@drawable/fiqihhaji"/>
+                        android:src="@mipmap/tamuallah"/>
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
@@ -107,10 +108,10 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Fiqih Umrah"
+                    android:text="@string/Jamaah"
                     android:textSize="12dp"
                     android:gravity="center"
-                    android:layout_marginLeft="180dp"/>
+                    android:layout_marginLeft="150dp"/>
             </LinearLayout>
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -119,10 +120,10 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="fiqih haji"
+                    android:text="Segeralah Jadi tamu Allah"
                     android:textSize="12dp"
                     android:gravity="center"
-                    android:layout_marginLeft="320dp"/>
+                    android:layout_marginLeft="300dp"/>
             </LinearLayout>
         </RelativeLayout>
         <LinearLayout
@@ -132,6 +133,7 @@
             android:layout_margin="2dp"
             android:orientation="horizontal">
             <androidx.cardview.widget.CardView
+                android:id="@+id/sabar"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="3"
@@ -146,10 +148,11 @@
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:padding="2dp"
-                        android:src="@drawable/doadzikir"/>
+                        android:src="@mipmap/bersabar"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:id="@+id/ikhlas"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="3"
@@ -164,10 +167,11 @@
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:padding="2dp"
-                        android:src="@drawable/tatacaraumrah"/>
+                        android:src="@mipmap/ikhlaslah"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:id="@+id/nabi"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="3"
@@ -182,7 +186,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:padding="2dp"
-                        android:src="@drawable/tatacarahaji"/>
+                        android:src="@mipmap/nabi"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -197,7 +201,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Keutamaan Haji"
+                    android:text="@string/Bersabar"
                     android:textSize="12dp"
                     android:gravity="center"
                     android:layout_marginLeft="30dp"/>
@@ -209,7 +213,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Fiqih Umrah"
+                    android:text="Ikhlas"
                     android:textSize="12dp"
                     android:gravity="center"
                     android:layout_marginLeft="180dp"/>
@@ -221,12 +225,118 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="fiqih haji"
+                    android:text="meneladani nabi"
                     android:textSize="12dp"
                     android:gravity="center"
-                    android:layout_marginLeft="320dp"/>
+                    android:layout_marginLeft="300dp"/>
             </LinearLayout>
         </RelativeLayout>
+        <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_margin="2dp"
+    android:orientation="horizontal">
+    <androidx.cardview.widget.CardView
+        android:id="@+id/berdebat"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        app:contentPadding="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:padding="2dp"
+                android:src="@mipmap/berdebatt"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/maksiat"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        app:contentPadding="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:padding="2dp"
+                android:src="@mipmap/maksiat"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/hartahalal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        app:contentPadding="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:padding="2dp"
+                android:src="@mipmap/berhaji"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Jangan berdebat"
+                android:textSize="12dp"
+                android:gravity="center"
+                android:layout_marginLeft="20dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Jangan Maksiat Agar Mabrur"
+                android:textSize="12dp"
+                android:gravity="center"
+                android:layout_marginLeft="130dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Berhaji dengan harta yang halal"
+                android:textSize="12dp"
+                android:gravity="center"
+                android:layout_marginLeft="300dp"/>
+        </LinearLayout>
+    </RelativeLayout>
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -234,9 +344,10 @@
             android:layout_margin="2dp"
             android:orientation="horizontal">
             <androidx.cardview.widget.CardView
+                android:id="@+id/teman"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="3"
+                android:layout_weight="1"
                 app:cardPreventCornerOverlap="true"
                 app:cardUseCompatPadding="true"
                 app:contentPadding="10dp">
@@ -248,13 +359,14 @@
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:padding="2dp"
-                        android:src="@drawable/petajarak"/>
+                        android:src="@mipmap/teman"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:id="@+id/hakikat"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="3"
+                android:layout_weight="1"
                 app:cardPreventCornerOverlap="true"
                 app:cardUseCompatPadding="true"
                 app:contentPadding="10dp">
@@ -266,28 +378,11 @@
                         android:layout_width="match_parent"
                         android:layout_height="80dp"
                         android:padding="2dp"
-                        android:src="@drawable/lokasi"/>
+                        android:src="@mipmap/hakikat"/>
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
-            <androidx.cardview.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="3"
-                app:cardPreventCornerOverlap="true"
-                app:cardUseCompatPadding="true"
-                app:contentPadding="10dp">
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical">
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="80dp"
-                        android:padding="2dp"
-                        android:src="@drawable/tanyajawab"/>
-                </LinearLayout>
-            </androidx.cardview.widget.CardView>
+
 
         </LinearLayout>
         <RelativeLayout
@@ -300,10 +395,10 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Keutamaan Haji"
+                    android:text="Mencari teman perjalanan yang baik"
                     android:textSize="12dp"
                     android:gravity="center"
-                    android:layout_marginLeft="30dp"/>
+                    android:layout_marginLeft="0dp"/>
             </LinearLayout>
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -312,22 +407,10 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Fiqih Umrah"
+                    android:text="Hakikat Talbiyah"
                     android:textSize="12dp"
                     android:gravity="center"
-                    android:layout_marginLeft="180dp"/>
-            </LinearLayout>
-            <LinearLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:orientation="vertical">
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="fiqih haji"
-                    android:textSize="12dp"
-                    android:gravity="center"
-                    android:layout_marginLeft="320dp"/>
+                    android:layout_marginLeft="260dp"/>
             </LinearLayout>
         </RelativeLayout>
 

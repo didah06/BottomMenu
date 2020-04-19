@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Bottommenu</string>
+    <string name="app_name">Asia Tour</string>
     <string name="home">Home</string>
     <string name="sholat">Sholat</string>
     <string name="kiblat">Kiblat</string>
@@ -74,5 +74,273 @@
     <string name="Predikat">Segera mendapat predikat \"Tamu Allah\"</string>
     <string name="hadis20">HR. Ibnu Majah no 2884</string>
     <string name="desc8">di shahihkan albani tetapi di lemahkan beberapa ulama</string>
+    <string name="hadis21">HR. Ibnu MAjah no 2874</string>
+    <string name="Bersabar">Bersabarlah</string>
+    <string name="hadis22">HR. Bukhari no 1787</string>
+    <string name="hadis23">HR. Bukhari no 1211</string>
+    <string name="hadis24">HR. Baihaqi dalam As – Sunah al – Kubro no 8634</string>
+    <string name="hadis25">Dishahihkan oleh Al – Albani dalam As – Shahihah no 2617</string>
+    <string name="hadis26">HR. Bukhari no 1521</string>
+    <string name="hadis27">Muslim no 1350</string>
+    <string name="hadis28">HR. Bukhari no 1605</string>
+    <string name="hadis29">Muslim no 1270</string>
+    <string name="hadis30">HR. Bukhari no 1579</string>
+    <string name="hadis31">HR. Muslim no 1297</string>
+    <string name="hadis32">An – Nawawi; Al – Minhaaj Syarh Shahih Muslim 9/45</string>
+    <string name="quran3">QS. Al – Baqarah : 197</string>
+    <string name="hadis40">As – Sa’di; Tafsir Al – Kariim ar – Rahmaan hal 92</string>
+    <string name="quran4">QS. Al – Baqarah : 197</string>
+    <string name="hadis41">HR. Bukhari no 1521</string>
+    <string name="hadis42">Ibnu Hazm rahimahullah; Al – Muhalla 5/197</string>
+    <string name="hadis43">Fatawaa Ibnu Baaz 5/139</string>
+    <string name="quran5">QS. Al – Baqarah : 197</string>
+    <string name="quran6">HR. Tirmidzi no 2738</string>
+    <string name="hadis45">HR. Bukhari no 1549</string>
+    <string name="hadis47">Muslim no 1184</string>
+    <string name="hadis48">HR. Ahmad no 16567</string>
+    <string name="hadis49">Ibnu Majah no 2922</string>
+    <string name="hadis50">Abu Dawud no 1814</string>
+    <string name="hadis51">At – Tirmidzi no 829</string>
+    <string name="hadis53">An – Nasaai no 2753</string>
+    <string name="hadis54">HR. Muslim no 1247</string>
+    <string name="hadis55">HR. Thabrani dan dishahihkan oleh Al – Albani dalam As – Shahihah no 1621</string>
+    <string name="quran7">QS. Al – Baqarah : 196</string>
+    <string name="quran8">QS. Al – Hajj : 29</string>
+    <string name="catatan">Peringatan : Tidak semua pelanggaran harus dibayar dengan denda 3 keadaan seseorang yang melakukan larangan ihram a) Dalam keadaan lupa, tidak tahu, dipaksa, maka tidak ada dosa dan fidyah b) Jika melakukan dengan sengaja, namun karena ada uzur dan kebutuhan medesak, makai a tidak berdosa sama sekali hanya saja doa doharuskan membayar fidyah c) Jika melakukannya dengan sengaja dan tanpa adanya uzur atau tidak ada kebutuhan mendesak, makai a telah berdosa karena sengaja melanggar dan tentu dikenakan fidyah dan harus bertaubat kepada Allah</string>
+    <string name="quran9">QS. Al – Baqarah : 125</string>
+    <string name="quran10">QS. Al – Hajj : 26</string>
+    <string name="hadis52">HR. Tirmidzi no 959 dan dishahihkan Al – Albani</string>
+    <string name="hadis56">HR. Tirmidzi no 960</string>
+    <string name="hadisdoa">HR. Ahmad no 15398</string>
+    <string name="quran11">QS. Ali Imran : 96 – 97</string>
+    <string name="quran12">QS. Al – Baqarah : 125</string>
+    <string name="hadis57">HR. Muslim no 1218</string>
+    <string name="hadis58">HR. Muslim no 2473</string>
+    <string name="hadis59">HR. Ahmad no 15243</string>
+    <string name="ihram_di_miqot">ihram di miqot</string>
+    <string name="thowaf">thowaf</string>
+    <string name="maqom_ibrahim">Maqom Ibrahim</string>
+    <string name="minum_zamzam">Minum Zamzam</string>
+    <string name="sa_i">Sa\'i</string>
+    <string name="gundul_cukur_pendek">Gundul/Cukur Pendek</string>
+    <string name="date">Date</string>
+    <string name="txt_date">txt_date</string>
+    <string name="search">lokasi anda</string>
+    <string name="persiapan">persiapan haji</string>
+    <string name="fiqihumroh">fiqih umrah</string>
+    <string name="fiqihhaji">fiqih haji</string>
+    <string name="lokasiziarah">lokasi ziarah</string>
+    <string name="daftarisi">daftar isi</string>
+    <string name="rate">rate</string>
+    <string name="tentang">teantang</string>
+    <string name="keutammanmekkah">keutamaan mekkah</string>
+    <string name="kesalahanmaqom">Kesalahan Maqom</string>
+    <string name="apamaqomibrahim">Apa maqom ibrahim</string>
+    <string name="peringatan">Tidak semua pelanggaran harus dibayar dengan denda 3 keadaan seseorang yang melakukan larangan ihram a) Dalam keadaan lupa, tidak tahu, dipaksa, maka tidak ada dosa dan fidyah b) Jika melakukan dengan sengaja, namun karena ada uzur dan kebutuhan medesak, makai a tidak berdosa sama sekali hanya saja doa doharuskan membayar fidyah c) Jika melakukannya dengan sengaja dan tanpa adanya uzur atau tidak ada kebutuhan mendesak, makai a telah berdosa karena sengaja melanggar dan tentu dikenakan fidyah dan harus bertaubat kepada Allah</string>
+    <string name="desk_sunah1">Ibnu Umar diriwayatkan oleh Al – Bazzaar dalam musnadnya no 6158</string>
+    <string name="penjelasanmiqot">1. Miqat Makani : Dzulhalaigah, Al – Juhfah, Yalamlam, Qarn Al – Manazil, Dzatu ‘irq</string>
+    <string name="miqotzamani">2. Miqat Zamani : Ibadah Haji, Ibadah Umroh</string>
+    <string name="macamthowaf">1. Thawaf qudum ( kedatangan ) 2. Thawaf umroh 3. Thawaf ifadhah/ziarah/haji 4. Thawaf wada’ 5. Thawaf nadzar 6. Thawaf sunnah</string>
+    <string name="desk_hajitamatt">Dimulai dengan umroh lalu melakukan haji ( syawal, dzulqo’dah, dzulhijah ) Wajib menyembelih hewan hadyu</string>
+    <string name="deskifrad">Mengerjakan haji di musim haji dan tidak mengerjakan umroh Pelaksanaan haji :</string>
+    <string name="ifrad">Tidak mencukur/menggundul rambut setelah thawaf qudum Jika sudah melaksanakan sai haji, ketika thawaf qudum setelah thawaf ifadhah tidak perlu sai haji lagi</string>
+    <string name="desc_mekkah">Negeri Haram yang aman, dilarang menumpahkan darah, memotong pepohonan, dan tumbuhan, memburu hewan buruan, dan mengambil barang temuan kecuali untuk diumumkan</string>
+    <string name="akselerasi">Kami dari akselerasi Programming PLP 7 Pondok Pesantren Fahim Quran Plus Tapos 1 Tenjolaya Bogor Jawa Barat.</string>
 
+    <string name="terdiri">
+        Kami terdiri dari:
+    </string>
+
+    <string name="Fadiya">
+        \n lahir di Bandung, 17 September 2004. Fadiya berasal dari Pekanbaru, Riau.
+        \n Dia sekarang duduk di kelas 10 SMA, angkatan 4 FQ.
+        \n email : @fadiya07tsabita@gmail.com.
+    </string>
+
+    <!--<string name="pad">
+        \n Fadiya Tsabita, lahir di Bandung, 17 September 2004. Fadiya berasal dari Pekanbaru, Riau.
+        \n Dia sekarang duduk di kelas 10 SMA, angkatan 4 FQ.
+        \n email : @fadiya07tsabita@gmail.com.
+    </string>-->
+
+    <string name="Safira">
+        \n lahir di Pekanbaru, 2 Mei 2006. Safira atau biasa dipanggil Sapi berasal dari Jakarta Barat.
+        \n Dia sekarang duduk di kelas 8 SMP, angkatan 3 FQ.
+        \n IG : @sa_piraaaa
+    </string>
+
+    <!--<string name="sapi">
+        \n Safira Rakhsanda, lahir di Pekanbaru, 2 Mei 2006. Safira atau biasa dipanggil Sapi berasal dari Jakarta Barat.
+        \n Dia sekarang duduk di kelas 8 SMP, angkatan 3 FQ.
+        \n IG : @sa_piraaaa
+    </string>-->
+    <string name="Anggi">
+         \n Anggia Putri Noly, lahir di Pematang Siantar, 20 Januari 2004. Anggi berasal dari Depok.
+        \n Dia sekarang duduk di kelas 10 SMA, angkatan 4 FQ.
+        \n IG : @anggiiapn
+        \n email : anggiaputrinoly@gmail.com
+    </string>
+
+   <!-- <string name="anggi">
+        \n Anggia Putri Noly, lahir di Pematang Siantar, 20 Januari 2004. Anggi berasal dari Depok.
+        \n Dia sekarang duduk di kelas 10 SMA, angkatan 4 FQ.
+        \n IG : @anggiiapn
+        \n email : anggiaputrinoly@gmail.com
+    </string>-->
+    <string name="khalipah">
+        \n lahir di Bekasi, 10 agustus 2000. Khalifa berasal dari Jakarta Timur.
+        \n Dia sekarang duduk di kelas 8 SMP, angkatan 3 FQ.
+        \n IG : @almairaaaz
+        \n email : khalifaalmaira106@gmail.com
+    </string>
+    <!--<string name="khal">
+        \n Khalifa Almaira, lahir di Bekasi, 10 agustus 2000. Khalifa berasal dari Jakarta Timur.
+        \n Dia sekarang duduk di kelas 8 SMP, angkatan 3 FQ.
+        \n IG : @almairaaaz
+        \n email : khalifaalmaira106@gmail.com
+    </string>-->
+    <string name="nay">
+        5. Nayla
+        \n Nayla Dhiaulhaq Hidayat, lahir di Duri, 28 september 2005. Nayla berasal dari Depok.
+        \n Dia sekarang duduk di kelas 8 SMP, angkatan 3 FQ.
+        \n IG : @nayla.hdyt
+        \n email : nayladh76@gmail.com
+    </string>
+    <!--<string name="nayla">
+        \n Nayla Dhiaulhaq Hidayat, lahir di Duri, 28 september 2005. Nayla berasal dari Depok.
+        \n Dia sekarang duduk di kelas 8 SMP, angkatan 3 FQ.
+        \n IG : @nayla.hdyt
+        \n email : nayladh76@gmail.com
+    </string>-->
+    <string name="ustzh"> Mereka di ampuh oleh Ustadzah Didah, guru IT yang berasal dari Bogor.
+    </string>
+    <string name="manfaat"> Semoga Aplikasi yang kami buat bermanfaat :) </string>
+    <string name="ihram_penjelasan">penjelasan</string>
+    <string name="hr_ibnumajah2884">الحُجَّاجُ وَالْعُمَّارُ وَفْدُ اللهِ، دَعَاهُمْ فَأَجَابُوْهُ، سَأَلُوْهُ فَأَعْطَاهُمْ
+    \n\n
+    “Sesungguhnya para jama’ah haji dan para jama’ah umrah adalah tamu Allāh, Allāh telah panggil mereka dan mereka pun memenuhi panggilan Allāh. Lantas setelah merekapun setelah memenuhi panggilan Allāh (sebagai tamu-tamu Allāh), lantas mereka memohon kepada Allāh, maka Allāh pun mengabulkan permohonan mereka.” (HR Ibnu Majah nomor 2884).</string>
+    <string name="alhajj27">وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ
+    \n\n
+    “Dan berserulah kepada manusia untuk mengerjakan haji, niscaya mereka akan datang kepadamu dengan berjalan kaki dan mengendarai unta, yang datang dari segenap penjuru yang jauh.” (QS. Al-Hajj : 27).</string>
+    <string name="hr_bukhari1593">لَيُحَجَّنَّ البَيْتُ وَلَيُعْتَمَرَنَّ بَعْدَ خُرُوجِ يَأْجُوجَ وَمَأْجُو
+    \n\n
+    “Sungguh bahwasanya Ka’bah ini, orang akan datang berhaji kepadanya, dan orang-orang akan berumrah kepada Ka’bah, meskipun setelah keluarnya Ya’juj dan Ma’juj.” (HR Al-Bukhari No. 1593).</string>
+    <!--<string name="hr_bukhari_1211">بَاب حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا سُفْيَانُ حَدَّثَنَا ابْنُ الْمُنْكَدِرِ قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ جِيءَ بِأَبِي يَوْمَ أُحُدٍ قَدْ مُثِّلَ بِهِ حَتَّى وُضِعَ بَيْنَ يَدَيْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقَدْ سُجِّيَ ثَوْبًا فَذَهَبْتُ أُرِيدُ أَنْ أَكْشِفَ عَنْهُ فَنَهَانِي قَوْمِي ثُمَّ ذَهَبْتُ أَكْشِفُ عَنْهُ فَنَهَانِي قَوْمِي فَأَمَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَرُفِعَ فَسَمِعَ صَوْتَ صَائِحَةٍ فَقَالَ مَنْ هَذِهِ فَقَالُوا ابْنَةُ عَمْرٍو أَوْ أُخْتُ عَمْرٍو قَالَ فَلِمَ تَبْكِي أَوْ لَا تَبْكِي فَمَا زَالَتْ الْمَلَائِكَةُ تُظِلُّهُ بِأَجْنِحَتِهَا حَتَّى رُفِعَ
+    \n\n
+    "Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Ibnu Al Munkadir] berkata; Aku mendengar [Jabir bin 'Abdullah radliallahu 'anhu] berkata,: "Pada hari Perang Uhud, bapakku didatangkan dalam kondisi sudah terbunuh dengan bagian anggota badannya ada yang terpotong hingga diletakkan di hadapan Rasulullah Shallallahu'alaihiwasallam, sedangkan jasadnya sudah ditutup dengan kain. Maka aku menghampiri untuk membukanya namun kaumku mencegahku. Aku coba sekali lagi untuk membukanya namun kaumku tetap mencegahku hingga akhirnya Rasulullah Shallallahu'alaihiwasallam memerintahkan untuk diangkat (dibawa). Saat itu Beliau mendengar ada suara teriakan. Maka Beliau bertanya: "(Suara) siapakah itu?". Orang-orang menjawab: "Putri dari 'Amru" atau "saudara perempuan 'Amru. Kemudian Beliau berkata,: "Mengapa kamu menangis?" atau "Janganlah kamu menangis,
+        karena malaikat senantiasa akan menaunginya dengan sayap-sayapnya hingga (jenazah) ini diangkat.</string>-->
+    <string name="hr_bukhari_1787">حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا هِشَامٌ حَدَّثَنَا قَتَادَةُ عَنْ أَنَسٍ عَنْ زَيْدِ بْنِ ثَابِتٍ رَضِيَ اللَّهُ عَنْهُ قَالَ تَسَحَّرْنَا مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ قَامَ إِلَى الصَّلَاةِ قُلْتُ كَمْ كَانَ بَيْنَ الْأَذَانِ وَالسَّحُورِ قَالَ قَدْرُ خَمْسِينَ آيَةً
+         \n\n
+    “Akan tetapi ganjarannya itu berdasarkan ukuran nafkahmu atau keletihanmu” (HR Al-Bukhari no 1787 dan Muslim no 1211).</string>
+    <string name="hr_bukhari_1521">حَدَّثَنَا آدَمُ حَدَّثَنَا شُعْبَةُ حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ قَالَ سَمِعْتُ ابْنَ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا يَقُولُ قَدِمَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَطَافَ بِالْبَيْتِ سَبْعًا وَصَلَّى خَلْفَ الْمَقَامِ رَكْعَتَيْنِ ثُمَّ خَرَجَ إِلَى الصَّفَا وَقَدْ قَالَ اللَّهُ تَعَالَى { لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَة
+    \n\n
+    "Nabi Shallallahu'alaihiwasallam datang (ke Baitullah untuk hajji) maka Beliau thawaf di Baitullah tujuh kali putaran kemudian shalat dua raka'at di belakang Maqam (Ibrahim) lalu keluar menuju bukit Ash-Shafa dan Al Marwah. Dan sungguh Allah Ta'ala telah berfirman dalam QS Al Ahzab ayat 21 yang artinya: ("Sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah")
+    </string>
+    <string name="hr_muslim_1350">حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَمْرٌو النَّاقِدُ وَزُهَيْرُ بْنُ حَرْبٍ كُلُّهُمْ عَنْ ابْنِ عُيَيْنَةَ قَالَ زُهَيْرٌ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ حَدَّثَنَا الزُّهْرِيُّ عَنْ سَالِمٍ عَنْ أَبِيهِ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا حَسَدَ إِلَّا فِي اثْنَتَيْنِ رَجُلٌ آتَاهُ اللَّهُ الْقُرْآنَ فَهُوَ يَقُومُ بِهِ آنَاءَ اللَّيْلِ وَآنَاءَ النَّهَارِ وَرَجُلٌ آتَاهُ اللَّهُ مَالًا فَهُوَ يُنْفِقُهُ آنَاءَ اللَّيْلِ وَآنَاءَ النَّهَار
+    \n\n
+    "Nabi shallallahu 'alaihi wasallam bersabda: "Tidak boleh dengki kecuali pada dua hal. (1) kepada seorang yang telah diberi Allah (hafalan) Al Qur`an, sehingga ia membacanya siang dan malam. (2) kepada seorang yang dikaruniakan Allah harta kekayaan, lalu dibelanjakannya harta itu siang dan malam (di jalan Allah)</string>
+    <string name="hr_bukhari_1605">حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ حَدَّثَنَا سُلَيْمَانُ بْنُ بِلَالٍ قَالَ حَدَّثَنِي يَحْيَى قَالَ حَدَّثَتْنِي عَمْرَةُ قَالَتْ سَمِعْتُ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا تَقُولُ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِخَمْسٍ بَقِينَ مِنْ ذِي الْقَعْدَةِ وَلَا نُرَى إِلَّا الْحَجَّ حَتَّى إِذَا دَنَوْنَا مِنْ مَكَّةَ أَمَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ لَمْ يَكُنْ مَعَهُ هَدْيٌ إِذَا طَافَ بِالْبَيْتِ ثُمَّ يَحِلُّ قَالَتْ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا فَدُخِلَ عَلَيْنَا يَوْمَ النَّحْرِ بِلَحْمِ بَقَرٍ فَقُلْتُ مَا هَذَا فَقِيلَ ذَبَحَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ أَزْوَاجِهِ قَالَ يَحْيَى فَذَكَرْتُ هَذَا الْحَدِيثَ لِلْقَاسِمِ فَقَالَ أَتَتْكَ بِالْحَدِيثِ عَلَى وَجْهِهِ
+   </string>
+    <string name="muslim_1270">حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ ابْنِ شِهَابٍ عَنْ عُرْوَةَ عَنْ عَائِشَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَّى فِي الْمَسْجِدِ ذَاتَ لَيْلَةٍ فَصَلَّى بِصَلَاتِهِ نَاسٌ ثُمَّ صَلَّى مِنْ الْقَابِلَةِ فَكَثُرَ النَّاسُ ثُمَّ اجْتَمَعُوا مِنْ اللَّيْلَةِ الثَّالِثَةِ أَوْ الرَّابِعَةِ فَلَمْ يَخْرُجْ إِلَيْهِمْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَلَمَّا أَصْبَحَ قَالَ قَدْ رَأَيْتُ الَّذِي صَنَعْتُمْ فَلَمْ يَمْنَعْنِي مِنْ الْخُرُوجِ إِلَيْكُمْ إِلَّا أَنِّي خَشِيتُ أَنْ تُفْرَضَ عَلَيْكُمْ قَالَ وَذَلِكَ فِي رَمَضَانَ
+    \n\n
+    "dari [Aisyah] bahwasanya; Pada suatu malam (di bulan Ramadlan), Rasulullah shallallahu 'alaihi wasallam shalat di Masjid, lalu diikuti oleh beberapa orang sahabat. Kemudian (pada malam kedua) beliau shalat lagi, dan ternyata diikuti oleh banyak orang. Dan pada malam ketiga atau keempat mereka berkumpul, namun Rasulullah shallallahu 'alaihi wasallam tidak keluar shalat bersama mereka. Maka setelah pagi, beliau bersabda: "Sesungguhnya aku tahu apa yang kalian lakukan semalam. Tiada sesuatu pun yang menghalangiku untuk keluar dan shalat bersama kalian, hanya saja aku khawatir (shalat tarawih itu) akan diwajibkan atas kalian."
+    </string>
+    <string name="bukhari_1579">حَدَّثَنَا أَحۡمَدُ، حَدَّثَنَا ابۡنُ وَهۡبٍ، أَخۡبَرَنَا عَمۡرٌو، عَنۡ هِشَامِ بۡنِ عُرۡوَةَ، عَنۡ أَبِيهِ، عَنۡ عَائِشَةَ رَضِيَ اللهُ عَنۡهَا: أَنَّ النَّبِيَّ ﷺ دَخَلَ، عَامَ الۡفَتۡحِ مِنۡ كَدَاءٍ أَعۡلَى مَكَّةَ، قَالَ هِشَامٌ: وَكَانَ عُرۡوَةُ يَدۡخُلُ عَلَى كِلۡتَيۡهِمَا مِنۡ كَدَاءٍ وَكُدًا، وَأَكۡثَرُ مَا يَدۡخُلُ مِنۡ كَدَاءٍ، وَكَانَتۡ أَقۡرَبَهُمَا إِلَى مَنۡزِلِهِ
+    \n\n
+        "dari ‘Aisyah radhiyallahu ‘anha: Bahwa Nabi shallallahu ‘alaihi wa sallam pada tahun Fathu Makkah masuk Makkah dari gunung Kada`, tempat tertinggi di Makkah. Hisyam mengatakan: ‘Urwah pernah masuk dari dua tempat, dari Kada` dan Kuda. Namun beliau lebih banyak masuk dari Kada`. Di antara dua tempat tersebut, Kada` lebih dekat dengan rumahnya."
+    </string>
+    <string name="muslim_1297">و حَدَّثَنَا ابْنُ الْمُثَنَّى حَدَّثَنَا عَبْدُ الْوَهَّابِ أَخْبَرَنَا أَيُّوبُ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ صَلُّوا فِي بُيُوتِكُمْ وَلَا تَتَّخِذُوهَا قُبُورًا
+    \n\n
+        "dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Shalatlah di rumah-rumah kalian, dan janganlah kalian menjadikannya sebagai kuburan."
+    </string>
+    <string name="albaqarah_197">الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ ۚ فَمَنْ فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ ۗ وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ ۗ وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ ۚ وَاتَّقُونِ يَا أُولِي الْأَلْبَابِ
+    \n\n
+    "(Musim) haji adalah beberapa bulan yang dimaklumi, barangsiapa yang menetapkan niatnya dalam bulan itu akan mengerjakan haji, maka tidak boleh rafats, berbuat fasik dan berbantah-bantahan di dalam masa mengerjakan haji. Dan apa yang kamu kerjakan berupa kebaikan, niscaya Allah mengetahuinya. Berbekallah, dan sesungguhnya sebaik-baik bekal adalah takwa dan bertakwalah kepada-Ku hai orang-orang yang berakal."
+    </string>
+    <string name="tirmidzi_2738">حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ أَخْبَرَنِي أَبِي عَنْ مُصْعَبِ بْنِ شَيْبَةَ عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ عَنْ عَائِشَةَ قَالَتْ خَرَجَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَاتَ غَدَاةٍ وَعَلَيْهِ مِرْطٌ مِنْ شَعَرٍ أَسْوَدَ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ صَحِيحٌ
+    </string>
+    <string name="hr_bukhari_8">حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الْجُعْفِيُّ قَالَ حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ بِلَالٍ عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الْإِيمَانُ بِضْعٌ وَسِتُّونَ شُعْبَةً وَالْحَيَاءُ شُعْبَةٌ مِنْ الْإِيمَانِ
+    \n\n
+    "Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Iman memiliki lebih dari enam puluh cabang, dan malu adalah bagian dari iman".</string>
+    <!--keutamaan haji-->
+    <string name="alimran_97">فِيهِ آيَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ ۖ وَمَنْ دَخَلَهُ كَانَ آمِنًا ۗ وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ الْعَالَمِينَ
+    \n\n
+    "Padanya terdapat tanda-tanda yang nyata, (di antaranya) maqam Ibrahim; barangsiapa memasukinya (Baitullah itu) menjadi amanlah dia; mengerjakan haji adalah kewajiban manusia terhadap Allah, yaitu (bagi) orang yang sanggup mengadakan perjalanan ke Baitullah. Barangsiapa mengingkari (kewajiban haji), maka sesungguhnya Allah Maha Kaya (tidak memerlukan sesuatu) dari semesta alam.</string>
+    <string name="hr_muslim_16">"Wahai Rasulullah shallallahu 'alaihi wasallam, tunjukkanlah kepadaku pada suatu amalan yang mana jika aku mengamalkannya niscaya aku masuk surga? ' Beliau menjawab: 'Kamu menyembah Allah, tidak mensyirikkan-Nya dengan sesuatu apa pun, mendirikan shalat yang wajib, menunaikan zakat yang fardlu, dan berpuasa Ramadlan."</string>
+    <string name="hr_bukhari_1773">"Rasulullah shallallahu 'alaihi wasallam menceritakan tentang bulan Ramadhan lalu Beliau bersabda: "Janganlah kalian berpuasa hingga kalian melihat hilal dan jangan pula kalian berbuka hingga kalian melihatnya. Apabila kalian terhalang oleh awan maka perkirakanlah jumlahnya (jumlah hari disempurnakan) "</string>
+    <string name="hr_muslim_1349">"Dan dalam riwayat Abu Usamah dari Uqbah bin Amir Al Juhani. Dan ia dalah termasuk salah seorang yang 'arif dari kalangan sahabat Muhammad shallallahu 'alaihi wasallam.</string>
+    <string name="hr_bukhari_1520">"Rasulullah Shallallahu'alaihiwasallam berkata, ketika Beliau berada di Makkah dan hendak keluar darinya, sedangkan Ummu Salamah belum melaksanakan thawaf di Ka'bah Baitullah dan dia juga hendak keluar (dari Makkah), Rasulullah Shallallahu'alaihiwasallam berkata kepadanya: "Jika shalat Shubuh sudah dibacakan iqamatnya maka thawaf lah kamu diatas untamu saat orang-orang sedang melaksanakan shalat". Maka aku laksanakan perintah itu dan aku tidak shalat (sunnah thawaf) hingga aku keluar (dari Baitullah) ".</string>
+    <string name="hr_bukhari_26">
+حَدَّثَنَا أَبُو الْيَمَانِ قَالَ أَخْبَرَنَا شُعَيْبٌ عَنْ الزُّهْرِيِّ قَالَ أَخْبَرَنِي عَامِرُ بْنُ سَعْدِ بْنِ أَبِي وَقَّاصٍ عَنْ سَعْدٍ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَعْطَى رَهْطًا وَسَعْدٌ جَالِسٌ فَتَرَكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَجُلًا هُوَ أَعْجَبُهُمْ إِلَيَّ فَقُلْتُ يَا رَسُولَ اللَّهِ مَا لَكَ عَنْ فُلَانٍ فَوَاللَّهِ إِنِّي لَأَرَاهُ مُؤْمِنًا فَقَالَ أَوْ مُسْلِمًا فَسَكَتُّ قَلِيلًا ثُمَّ غَلَبَنِي مَا أَعْلَمُ مِنْهُ فَعُدْتُ لِمَقَالَتِي فَقُلْتُ مَا لَكَ عَنْ فُلَانٍ فَوَاللَّهِ إِنِّي لَأَرَاهُ مُؤْمِنًا فَقَالَ أَوْ مُسْلِمًا ثُمَّ غَلَبَنِي مَا أَعْلَمُ مِنْهُ فَعُدْتُ لِمَقَالَتِي وَعَادَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ قَالَ يَا سَعْدُ إِنِّي لَأُعْطِي الرَّجُلَ وَغَيْرُهُ أَحَبُّ إِلَيَّ مِنْهُ خَشْيَةَ أَنْ يَكُبَّهُ اللَّهُ فِي النَّارِ وَرَوَاهُ يُونُسُ وَصَالِحٌ وَمَعْمَرٌ وَابْنُ أَخِي الزُّهْرِيِّ عَنْ الزُّهْرِِّ</string>
+
+    <!--hakikat talbiyyah-->
+    <string name="hr_bukhari_1549">
+حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ أَخْبَرَنَا مَالِكٌ عَنْ مُحَمَّدِ بْنِ أَبِي بَكْرٍ الثَّقَفِيِّ أَنَّهُ سَأَلَ أَنَسَ بْنَ مَالِكٍ وَهُمَا غَادِيَانِ مِنْ مِنًى إِلَى عَرَفَةَ كَيْفَ كُنْتُمْ تَصْنَعُونَ فِي هَذَا الْيَوْمِ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ كَانَ يُهِلُّ مِنَّا الْمُهِلُّ فَلَا يُنْكِرُ عَلَيْهِ وَيُكَبِّرُ مِنَّا الْمُكَبِّرُ فَلَا يُنْكِرُ عَلَيْهِ</string>
+    <string name="hr_muslim_1184">"Telah menceritakan kepada kami [Yahya bin Yahya] katanya; aku pernah menyetorkan hapalan kepada [Malik] dari [Nafi'] dari [Ibnu Umar] bahwa [Hafsah Umul Mukminin] mengabarinya, bahwa jika Mu'adzin diam dari adzan shalat shubuh, dan shubuhpun telah nampak, maka Rasulullah shallallahu 'alaihi wasallam melakukan shalat dua rakaat ringan sebelum shalat ditegakkan. Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah] dan Ibnu Rumh dari (Al Laits bin Sa'd) dan diriwayatkan dari jalur lain telah menceritakan kepadaku [Zuhair bin Harb] dan ['Ubaidullah bin Sa'id], keduanya berkata; telah menceritakan kepada kami [Yahya] dari ['Ubaidullah], (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ismail] dari [Ayyub] semuanya dari [Nafi'] dengan sanad seperti ini sebagaimana yang dikatakan Malik.</string>
+    <string name="ibnumajjah_2922">"Zaid Abu Asy Sya'tsa`] dari [Ibnu Abbas] radliallahu 'anhu, ia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam berkhutbah di atas mimbar seraya bersabda: "Barang siapa yang tidak mendapatkan kain, maka ia dapat memakai celana dan siapa saja yang tidak mendapatkan sepasang sandal, maka ia dapat mengenakan sepatu." Hisyam berkata di dalam Haditsnya; 'Maka ia dapat memakai celana jika ia tidak mendapatkan kain.'</string>
+    <string name="muslim_1247">
+حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ حَدَّثَنَا عَبْدُ الْوَارِثِ عَنْ أَبِي التَّيَّاحِ قَالَ حَدَّثَنِي أَبُو مِجْلَزٍ عَنْ ابْنِ عُمَرَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْوِتْرُ رَكْعَةٌ مِنْ آخِرِ اللَّيْلِ</string>
+    <!--larangan ihram-->
+    <string name="albaqarah_196">"Dan sempurnakanlah ibadah haji dan 'umrah karena Allah. Jika kamu terkepung (terhalang oleh musuh atau karena sakit), maka (sembelihlah) korban yang mudah didapat, dan jangan kamu mencukur kepalamu, sebelum korban sampai di tempat penyembelihannya. Jika ada di antaramu yang sakit atau ada gangguan di kepalanya (lalu ia bercukur), maka wajiblah atasnya berfid-yah, yaitu: berpuasa atau bersedekah atau berkorban. Apabila kamu telah (merasa) aman, maka bagi siapa yang ingin mengerjakan 'umrah sebelum haji (di dalam bulan haji), (wajiblah ia menyembelih) korban yang mudah didapat. Tetapi jika ia tidak menemukan (binatang korban atau tidak mampu), maka wajib berpuasa tiga hari dalam masa haji dan tujuh hari (lagi) apabila kamu telah pulang kembali. Itulah sepuluh (hari) yang sempurna. Demikian itu (kewajiban membayar fidyah) bagi orang-orang yang keluarganya tidak berada (di sekitar) Masjidil Haram (orang-orang yang bukan penduduk kota Mekah). Dan bertakwalah kepada Allah dan ketahuilah bahwa Allah sangat keras siksaan-Nya.</string>
+    <string name="alhajj_29">ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ
+    \n\n
+        "Kemudian, hendaklah mereka menghilangkan kotoran yang ada pada badan mereka dan hendaklah mereka menyempurnakan nazar-nazar mereka dan hendaklah mereka melakukan melakukan thawaf sekeliling rumah yang tua itu (Baitullah).</string>
+    <string name="hr_bukhari_1838">"Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Harun bin 'Isma'il] telah menceritakan kepada kami ['Ali] telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada saya [Abu Salamah] berkata, telah menceritakan kepada saya ['Abdullah bin 'Amru bin Al 'Ash radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam datang menemuiku. Lalu dia menceritakan hadits yang Beliau sabdakan, yaitu: "Sesungguhnya isterimu mempunyai hak atasmu dan sesungguhnya isterimu mempunyai hak atasmu". Dan aku bertanya tentang shaum Daud. Maka Beliau menjawab: "Itu sama halnya separoh dari puasa Dahar (puasa sepanjang tahun) ".</string>
+    <string name="hr_bukhari_5803">حَدَّثَنَا أَبُو عَاصِمٍ عَنْ عُمَرَ بْنِ سَعِيدٍ عَنْ ابْنِ أَبِي مُلَيْكَةَ أَنَّ عُقْبَةَ بْنَ الْحَارِثِ حَدَّثَهُ قَالَ صَلَّى النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْعَصْرَ فَأَسْرَعَ ثُمَّ دَخَلَ الْبَيْتَ
+    \n\n
+    "Nabi shallallahu 'alaihi wasallam pernah mengerjakan shalat Ashar setelah itu beliau segera masuk ke rumah."</string>
+    <string name="muslim_2040">حَدَّثَنَا مُحَمَّدُ بْنُ عَبَّادٍ أَخْبَرَنَا سُفْيَانُ عَنْ الزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ طَيَّبْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِحُرْمِهِ حِينَ أَحْرَمَ وَلِحِلِّهِ قَبْلَ أَنْ يَطُوفَ بِالْبَيْتِ</string>
+    <string name="bukhari_1842">"dari ‘Abdullah radhiyallahu ‘anhu: Rasulullah shallallahu ‘alaihi wa sallam ditanya pakaian apa yang boleh dipakai seorang muhrim? Beliau bersabda, “Dia tidak boleh memakai gamis, serban, sirwal (celana panjang longgar), dan burnus (jubah yang memiliki penutup kepala). Tidak boleh pula memakai pakaian yang diberi safron atau wars (pewarna kuning nabati berbau harum). Jika ia tidak mendapatkan sepasang sandal, ia boleh memakai khuff (sejenis sepatu) namun ia potong dahulu hingga lebih rendah daripada mata kaki.”</string>
+    <string name="bukhari_1838">dari [Abdurrhman bin Abu Laila] katanya; "Tidak ada seorangpun yang mengabariku bahwa ia melihat Nabi shallallahu 'alaihi wasallam melakukan shalat dhuha, selain [Ummu Hani`], dialah yang menceritakan bahwa Nabi shallallahu 'alaihi wasallam pernah masuk rumahnya ketika Penaklukan kota Makkah, lalu beliau shalat delapan rakaat, dan aku belum pernah melihat beliau melakukan shalat yang lebih ringan daripada shalat ketika itu, beliau menyempurnakan rukuk dan sujudnya." Namun dalam haditsnya, Ibnu Basyar tidak menyebutkan ucapannya sama sekali.</string>
+    <string name="almaidah_96">أُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ وَطَعَامُهُ مَتَاعًا لَكُمْ وَلِلسَّيَّارَةِ ۖ وَحُرِّمَ عَلَيْكُمْ صَيْدُ الْبَرِّ مَا دُمْتُمْ حُرُمًا ۗ وَاتَّقُوا اللَّهَ الَّذِي إِلَيْهِ تُحْشَرُونَ
+    \n\n
+    "Dihalalkan bagimu binatang buruan laut dan makanan (yang berasal) dari laut sebagai makanan yang lezat bagimu, dan bagi orang-orang yang dalam perjalanan; dan diharamkan atasmu (menangkap) binatang buruan darat, selama kamu dalam ihram. Dan bertakwalah kepada Allah Yang kepada-Nya-lah kamu akan dikumpulkan.</string>
+    <string name="almaidah_95">"Hai orang-orang yang beriman, janganlah kamu membunuh binatang buruan, ketika kamu sedang ihram. Barangsiapa di antara kamu membunuhnya dengan sengaja, maka dendanya ialah mengganti dengan binatang ternak seimbang dengan buruan yang dibunuhnya, menurut putusan dua orang yang adil di antara kamu sebagai had-yad yang dibawa sampai ke Ka'bah atau (dendanya) membayar kaffarat dengan memberi makan orang-orang miskin atau berpuasa seimbang dengan makanan yang dikeluarkan itu, supaya dia merasakan akibat buruk dari perbuatannya. Allah telah memaafkan apa yang telah lalu. Dan barangsiapa yang kembali mengerjakannya, niscaya Allah akan menyiksanya. Allah Maha Kuasa lagi mempunyai (kekuasaan untuk) menyiksa.</string>
+    <string name="muslim_1409">و حَدَّثَنِي أَبُو الطَّاهِرِ وَعَلِيُّ بْنُ خَشْرَمٍ قَالَا أَخْبَرَنَا ابْنُ وَهْبٍ عَنْ مَخْرَمَةَ بْنِ بُكَيْرٍ ح و حَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ وَأَحْمَدُ بْنُ عِيسَى قَالَا حَدَّثَنَا ابْنُ وَهْبٍ أَخْبَرَنَا مَخْرَمَةُ عَنْ أَبِيهِ عَنْ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى الْأَشْعَرِيِّ قَالَ قَالَ لِي عَبْدُ اللَّهِ بْنُ عُمَرَ أَسَمِعْتَ أَبَاكَ يُحَدِّثُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي شَأْنِ سَاعَةِ الْجُمُعَةِ قَالَ قُلْتُ نَعَمْ سَمِعْتُهُ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ هِيَ مَا بَيْنَ أَنْ يَجْلِسَ الْإِمَامُ إِلَى أَنْ تُقْضَى الصَّلَاةُ</string>
+    <!--keutamaan thawaf-->
+    <string name="albaqarah_125">Dan (ingatlah), ketika Kami menjadikan rumah itu (Baitullah) tempat berkumpul bagi manusia dan tempat yang aman. Dan jadikanlah sebahagian maqam Ibrahim tempat shalat. Dan telah Kami perintahkan kepada Ibrahim dan Ismail: "Bersihkanlah rumah-Ku untuk orang-orang yang thawaf, yang i'tikaf, yang ruku dan yang sujud"</string>
+    <string name="alhajj_26">وَإِذْ بَوَّأْنَا لِإِبْرَاهِيمَ مَكَانَ الْبَيْتِ أَنْ لَا تُشْرِكْ بِي شَيْئًا وَطَهِّرْ بَيْتِيَ لِلطَّائِفِينَ وَالْقَائِمِينَ وَالرُّكَّعِ السُّجُودِ</string>
+    <string name="tirmidzi_959">حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ عَنْ قَتَادَةَ عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ أَنَّ أُمَّ سَعْدٍ مَاتَتْ وَالنَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ غَائِبٌ فَلَمَّا قَدِمَ صَلَّى عَلَيْهَا وَقَدْ مَضَى لِذَلِكَ شَهْرٌ</string>
+    <string name="tirmidzi_960">رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ أَخَاكُمْ النَّجَاشِيَّ قَدْ مَاتَ فَقُومُوا فَصَلُّوا عَلَيْهِ قَالَ فَقُمْنَا فَصَفَفْنَا كَمَا يُصَفُّ عَلَى الْمَيِّتِ وَصَلَّيْنَا عَلَيْهِ كَمَا يُصَلَّى عَلَى الْمَيِّتِ وَفِي الْبَاب عَنْ أَبِي هُرَيْرَةَ وَجَابِرِ بْنِ عَبْدِ اللَّهِ وَأَبِي سَعِيدٍ وَحُذَيْفَةَ بْنِ أَسِيدٍ وَجَرِيرِ بْنِ عَبْدِ اللَّهِ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ وَقَدْ رَوَاهُ أَبُو قِلَابَةَ عَنْ عَمِّهِ أَبِي الْمُهَلَّبِ عَنْ عِمْرَانَ بْنِ حُصَيْنٍ وَأَبُو الْمُهَلَّبِ اسْمُهُ عَبْدُ الرَّحْمَنِ بْنُ عَمْرٍو وَيُقَالُ لَهُ مُعَاوِيَةُ بْنُ عَمْرٍو</string>
+    <!--maqom ibrahim-->
+    <string name="Alimran96">إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا وَهُدًى لِلْعَالَمِينَ
+    \n\n
+    "Sesungguhnya rumah yang mula-mula dibangun untuk (tempat beribadat) manusia, ialah Baitullah yang di Bakkah (Mekah) yang diberkahi dan menjadi petunjuk bagi semua manusia."</string>
+    <string name="Alimran97">فِيهِ آيَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ ۖ وَمَنْ دَخَلَهُ كَانَ آمِنًا ۗ وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ الْعَالَمِينَ</string>
+    <string name="muslim_1218">Beliau berkata: Sesungguhnya Rasulullah shallallahu ‘alaihi wa sallam selama sembilan tahun beliau belum menunaikan haji. Kemudian beliau mengumumkan kepada kaum muslimin pada tahun kesepuluh bahwa Rasulullah shallallahu ‘alaihi wa sallam akan berhaji. Manusia berbondong-bondong tiba di Madinah. Semuanya berupaya untuk mengikuti Rasulullah shallallahu ‘alaihi wa sallam dan melakukan seperti amalan beliau. Kami pun keluar bersama beliau sampai datang di Dzul Hulaifah.</string>
+    <!--zamzam-->
+    <string name="muslim_2473">"Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] keduanya berkata, Telah menceritakan kepada kami [Yahya Al Qaththan] dari [Ubaidullah] ia berkata, telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Satu shalat (yang dikerjakan) di dalam Masjidku ini, adalah lebih utama daripada seribu shalat di masjid lain, kecuali Masjidil Haram."</string>
+    <string name="alhajj_27">ﻭَﺃَﺫِّﻥْ ﻓِﻲ ﺍﻟﻨَّﺎﺱِ ﺑِﺎﻟْﺤَﺞِّ ﻳَﺄْﺗُﻮﻙَ ﺭِﺟَﺎﻟًﺎ ﻭَﻋَﻠَﻰٰ ﻛُﻞِّ ﺿَﺎﻣِﺮٍ ﻳَﺄْﺗِﻴﻦَ ﻣِﻦْ ﻛُﻞِّ ﻓَﺞٍّ ﻋَﻤِﻴﻖٍ
+    \n\n
+    "Dan berserulah kepada manusia untuk mengerjakan haji, niscaya mereka akan datang kepadamu dengan berjalan kaki, dan mengendarai unta yang kurus yang datang dari segenap penjuru yang jauh,</string>
+    \n\n
+    "\n\n
+    "supaya mereka menyaksikan berbagai manfaat bagi mereka dan supaya mereka menyebut nama Allah pada hari yang telah ditentukan atas rezeki yang Allah telah berikan kepada mereka berupa binatang ternak. Maka makanlah sebahagian daripadanya dan (sebahagian lagi) berikanlah untuk dimakan orang-orang yang sengsara dan fakir.(alhajj:28)
+    <string name="alhajj_28">ﻟِﻴَﺸْﻬَﺪُﻭﺍ ﻣَﻨَﺎﻓِﻊَ ﻟَﻬُﻢْ ﻭَﻳَﺬْﻛُﺮُﻭﺍ ﺍﺳْﻢَ ﺍﻟﻠَّﻪِ ﻓِﻲ ﺃَﻳَّﺎﻡٍ ﻣَﻌْﻠُﻮﻣَﺎﺕٍ ﻋَﻠَﻰٰ ﻣَﺎ ﺭَﺯَﻗَﻬُﻢْ ﻣِﻦْ ﺑَﻬِﻴﻤَﺔِ ﺍﻟْﺄَﻧْﻌَﺎﻡِ ۖ ﻓَﻜُﻠُﻮﺍ ﻣِﻨْﻬَﺎ ﻭَﺃَﻃْﻌِﻤُﻮﺍ ﺍﻟْﺒَﺎﺋِﺲَ ﺍﻟْﻔَﻘِﻴﺮَ
+    \n\n
+    "supaya mereka menyaksikan berbagai manfaat bagi mereka dan supaya mereka menyebut nama Allah pada hari yang telah ditentukan atas rezeki yang Allah telah berikan kepada mereka berupa binatang ternak. Maka makanlah sebahagian daripadanya dan (sebahagian lagi) berikanlah untuk dimakan orang-orang yang sengsara dan fakir.
+        Simak lebih lanjut di Brainly.co.id - https://brainly.co.id/tugas/18790187#readmore</string>
+
+    <!--sejarah sai-->
+    <string name="albaqarah_158"> إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا ۚ وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ
+    \n\n
+    "Sesungguhnya Shafaa dan Marwa adalah sebahagian dari syi'ar Allah. Maka barangsiapa yang beribadah haji ke Baitullah atau ber'umrah, maka tidak ada dosa baginya mengerjakan sa'i antara keduanya. Dan barangsiapa yang mengerjakan suatu kebajikan dengan kerelaan hati, maka sesungguhnya Allah Maha Mensyukuri kebaikan lagi Maha Mengetahui.</string>
+
+    <!--gundul-->
+    <string name="alfath_27">Sesungguhnya Allah akan membuktikan kepada Rasul-Nya, tentang kebenaran mimpinya dengan sebenarnya (yaitu) bahwa sesungguhnya kamu pasti akan memasuki Masjidil Haram, insya Allah dalam keadaan aman, dengan mencukur rambut kepala dan mengguntingnya, sedang kamu tidak merasa takut. Maka Allah mengetahui apa yang tiada kamu ketahui dan Dia memberikan sebelum itu kemenangan yang dekat.
+</string>
+    <string name="hr_bukhari_1727">"Dan telahb berkata, kepadaku Ahmad bin Muhammad dia adalah Al Azraqiy telah menceritakan kepada kami Ibrahim dari bapaknya dari kakeknya bahwa 'Umar radliallahu 'anhu memberi izin (untuk menunaikan haji) kepada para isteri Nabi shallallahu 'alaihi wasallam pada akhir haji yang dia lakukan, lalu ia mengutus 'Utsman bin 'Affan dan 'Abdurrahman bin 'Auf bersama mereka.</string>
+    <string name="muslim_1301">"Dan telahb berkata, kepadaku Ahmad bin Muhammad dia adalah Al Azraqiy telah menceritakan kepada kami Ibrahim dari bapaknya dari kakeknya bahwa 'Umar radliallahu 'anhu memberi izin (untuk menunaikan haji) kepada para isteri Nabi shallallahu 'alaihi wasallam pada akhir haji yang dia lakukan, lalu ia mengutus 'Utsman bin 'Affan dan 'Abdurrahman bin 'Auf bersama mereka.</string>
+    <!--thawafwada-->
+    <string name="bukhari_1755">"Bab. Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari ['Ubaidullah bin 'Umar] berkata, telah menceritakan kepada saya [Khubaib bin 'Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Diantara rumahku dan mimbarku adalah raudhah (taman) diantara taman-taman surga dan mimbarku berada pada telagaku (di surga) ".</string>
+    <string name="muslim_1328">"Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaan orang mukmin yang membaca Al Qur`an adalah seperti buah Utrujah, baunya harum dan rasanya juga enak. Dan perumpamaan orang mukmin yang tidak membaca Al Qur`an adalah seperti buah kurma, baunya tidak semerbak, namun rasanya manis. Sedangkan perumpamaan orang munafik yang membaca Al Qur`an adalah laksana buah Raihanah yang baunya harum namun rasanya pahit. Dan perumpamaan orang munafik yang tidak membaca Al Qur`an adalah seperti buah Hanzhalah, baunya tidak wangi dan rasanya juga pahit."</string>
+    <string name="muslim_1327">"Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Itu adalah Malaikat yang sedang menyimak bacaanmu, sekiranya kamu terus membaca, niscaya pada pagi harinya manusia akan melihatnya dan Malaikat itu tidak bisa menutup diri dari pandangan mereka."</string>
+    <!--lokasi ziarah-->
+    <string name="bukhari_104">"Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Jami' bin Syaddad] dari ['Amir bin 'Abdullah bin Az Zubair] dari [Bapaknya] berkata, "Aku berkata kepada [Az Zubair], "Aku belum pernah mendengar kamu membicarakan sesuatu dari Rasulullah shallallahu 'alaihi wasallam sebagaimana orang-orang lain membicarakannya?" Az Zubair menjawab, "Aku tidak pernah berpisah dengan beliau, aku mendengar beliau mengatakan: "Barangsiapa berdusta terhadapku maka hendaklah ia persiapkan tempat duduknya di neraka."</string>
+    <string name="muslim_1354">""Wahai Rasulullah, aku mendengar orang ini membaca surat Al Furqan tidak seperti yang Anda bacakan kepadaku, bagaimana ini?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Lepaskanlah ia, suruh ia membacanya kembali." Lalu Hisyam membacakan kembali seperti yang dibacanya tadi. Setelah itu, Nabi shallallahu 'alaihi wasallam bersabda: "Memang seperti inilah ia diturunkan." Kemudian Nabi shallallahu 'alaihi wasallam menyuruhku pula untuk membaca. Lalu kubaca seperti bacaan yang biasa kubaca. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Ya, ayat itu memang diturunkan seperti itu. Sesungguhnya Al Qur`an itu diturunkan dengan tujuh huruf (tujuh dialek bahasa). Karena itu, bacalah dengan huruf yang mudah bagi kalian." </string>
+    <string name="Asy_Syura_7">وَكَذَٰلِكَ أَوْحَيْنَا إِلَيْكَ قُرْآنًا عَرَبِيًّا لِتُنْذِرَ أُمَّ الْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنْذِرَ يَوْمَ الْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌ فِي الْجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ
+    \n\n
+    "Demikianlah Kami wahyukan kepadamu Al Quran dalam bahasa Arab, supaya kamu memberi peringatan kepada ummul Qura (penduduk Mekah) dan penduduk (negeri-negeri) sekelilingnya serta memberi peringatan (pula) tentang hari berkumpul (kiamat) yang tidak ada keraguan padanya. Segolongan masuk surga, dan segolongan masuk Jahannam.</string>
+<!--minum zamzam-->
 </resources>
+

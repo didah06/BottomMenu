@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:orientation="vertical"
+        >
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:src="@mipmap/sunnahthawaf"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sunnah Thawaf"
+            android:textStyle="italic"
+            android:textSize="17dp"
+            android:layout_marginLeft="150dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Tatkala thawaf qudum atau thawaf umroh melakukan idthibaa’"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Tatkala thawaf qudum atau thawaf umroh melakukan ar – Romal"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Memulai dengan mengusap/menyentuh hajar aswad"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Mendirikan shalat 2 rakaat di belakang maqam Ibrahim usai thawaf"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background">
+
+
+    </LinearLayout>
+</LinearLayout>

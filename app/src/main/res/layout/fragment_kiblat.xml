@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent">
-
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@color/colorPrimaryDark"/>
     <TextView
-        android:id="@+id/tv_kiblat"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:text="@string/kiblat"
-        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+        android:layout_centerHorizontal="true"
+        android:id="@+id/DegreeTV"
+        android:layout_marginBottom="40dp"
+        android:layout_marginTop="70dp"
+        android:text="Heading: 0.0"
+        android:textSize="25dp"
+        android:textColor="@android:color/black"
+        android:textStyle="normal|bold"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/compas_image"
+        android:layout_below="@+id/DegreeTV"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/compass4"/>
+
 </RelativeLayout>

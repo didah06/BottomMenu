@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="520dp"
+        android:orientation="vertical"
+        >
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:src="@mipmap/penjelasanhaji"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Larangan Ihram"
+            android:textStyle="italic"
+            android:textSize="17dp"
+            android:layout_marginLeft="150dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Mencukur Rambut"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="20dp"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quran7"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:textSize="11sp"
+            android:background="@drawable/custom3"
+            android:textColor="@color/colorPrimaryDark"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Memotong kuku"
+            android:layout_marginTop="10dp"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quran7"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:textSize="11sp"
+            android:background="@drawable/custom3"
+            android:textColor="@color/colorPrimaryDark"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/quran8"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="8dp"
+                android:textSize="11sp"
+                android:background="@drawable/custom3"
+                android:textColor="@color/colorPrimaryDark"/>
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3.Memakai minyak wangi"
+            android:textSize="13dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="35dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4.Menutup kepala"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5.Memakai pakaian berjahit"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6.Berburu hewan buruan darat"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7.Melakukan akad, menikahkan, dan melamar"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8.Melakukan hubungan suami istri"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9.Bercumbu"
+            android:textSize="13dp"
+            android:layout_marginLeft="35dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:orientation="vertical"
+        android:background="@drawable/background">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/catatan"/>
+    </LinearLayout>
+
+</LinearLayout>

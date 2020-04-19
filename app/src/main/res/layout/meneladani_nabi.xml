@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Meneladani Nabi"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="20dp"/>
+        <Button
+            android:id="@+id/bukhari1605"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hadis28"
+            android:layout_marginLeft="95dp"
+            android:layout_marginTop="50dp"
+            android:textSize="11sp"
+            android:background="@drawable/custom1"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAppearance="@style/Platform.MaterialComponents"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="dan"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="20dp"/>
+        <Button
+            android:id="@+id/muslim1270"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hadis29"
+            android:layout_marginLeft="95dp"
+            android:layout_marginTop="20dp"
+            android:textSize="11sp"
+            android:background="@drawable/custom4"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAppearance="@style/Platform.MaterialComponents"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/bukhari1579"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hadis30"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="50dp"
+                android:textSize="11sp"
+                android:background="@drawable/custom2"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAppearance="@style/Platform.MaterialComponents"/>
+            <Button
+                android:id="@+id/muslim1297"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hadis31"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="50dp"
+                android:textSize="11sp"
+                android:background="@drawable/custom6"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAppearance="@style/Platform.MaterialComponents"/>
+            <Button
+                android:id="@+id/annawawi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hadis32"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="50dp"
+                android:textSize="11sp"
+                android:background="@drawable/custom3"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAppearance="@style/Platform.MaterialComponents"/>Layout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
+</LinearLayout>

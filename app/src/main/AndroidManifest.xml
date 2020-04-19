@@ -14,16 +14,66 @@
     <application
         android:name=".AppController"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/asiatour"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".menupersiapan"></activity>
-        <activity android:name=".PredikatTamu" />
-        <activity android:name=".JamaahHaji" />
-        <activity android:name=".WelcomeActivity" />
-        <activity android:name=".TabActivity" />
+        <activity android:name=".Sai"/>
+        <activity android:name=".Searchview"/>
+        <activity android:name=".bKeutamaanMekah"/>
+        <activity android:name=".MinumZamzam"/>
+        <activity android:name=".penjelasanMiqot"/>
+        <activity android:name=".Miqotmiqot"/>
+        <activity android:name=".jeddahMiqot"/>
+        <activity android:name=".kesalahanMiqot"/>
+        <activity android:name=".penjelasanIhram"/>
+        <activity android:name=".laranganIhram"/>
+        <activity android:name=".sunahIhram"/>
+        <activity android:name=".niatIhram"/>
+        <activity android:name=".kesalahanIhram"/>
+        <activity android:name=".Gundul"/>
+        <activity android:name=".keutamaanThawaf"/>
+        <activity android:name=".macamThawaf"/>
+        <activity android:name=".syaratThawaf"/>
+        <activity android:name=".sunahThawaf"/>
+        <activity android:name=".sejarahSai"/>
+        <activity android:name=".hukumSai"/>
+        <activity android:name=".menupersiapan11"/>
+        <activity android:name=".menupersiapan10"/>
+        <activity android:name=".menupersiapan9"/>
+        <activity android:name=".menupersiapan8"/>
+        <activity android:name=".menupersiapan7"/>
+        <activity android:name=".menupersiapan6"/>
+        <activity android:name=".menupersiapan5"/>
+        <activity android:name=".menupersiapan4"/>
+        <activity android:name=".menupersiapan3"/>
+        <activity android:name=".MaqomIbrahim"/>
+        <activity android:name=".Thowaf"/>
+        <activity android:name=".IhramMiqat"/>
+        <activity android:name=".hFiqihumrah"/>
+        <activity android:name=".hMenetap"/>
+        <activity android:name=".hPelaksanaan"/>
+        <activity android:name=".hThawaf"/>
+        <activity android:name=".penjelasan"/>
+        <activity android:name=".lokasi_ziarah"></activity>
+        <activity android:name=".fiqihumrah" />
+
+        <activity
+            android:name=".menupersiapan"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PredikatTamu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".JamaahHaji"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TabActivity"
+            android:screenOrientation="portrait" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -40,8 +90,10 @@
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps"
             android:screenOrientation="portrait" />
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait"/>
         <activity
-            android:name=".MainActivity"
+            android:name=".SplashScreen"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

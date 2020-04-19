@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@color/background"
+    android:background="@android:color/white"
     android:orientation="vertical">
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
@@ -22,8 +22,8 @@
 
             <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
-                android:background="@drawable/mekkah"/>
+                android:layout_height="180dp"
+                android:background="@drawable/kakbah2"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
